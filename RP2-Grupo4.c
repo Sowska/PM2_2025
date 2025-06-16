@@ -1,5 +1,4 @@
-/*Grupo 4 - BECERRA, OCTAVIO  -  LOSOWSKI, SOFIA
-
+/*
 ANALISIS DE LOS RESULTADOS:
 
 RAL: El costo maximo elevado indica que varias claves distintas tienen el mismo hash, lo que empeora el rendimiento porque varias claves caen cerca entre sí.
